@@ -1,0 +1,6 @@
+1. deadline vẽ kỹ thuật
+2. deadline thực hành lập trình hướng đối tượng
+3. deadline toán rời rạc 
+4. học react native 
+5. deadline cơ sở dữ liệu
+6. học merge branch github
